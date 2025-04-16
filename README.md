@@ -19,7 +19,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 | Problema | Dificuldade | Soluções |
 | -- | -- | -- |
 | [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/?envType=problem-list-v2&envId=graph)  |  Difícil | [Vídeo]() |
-| []()  |  Difícil | [Vídeo]() |
+| [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)  |  Difícil | [Vídeo]() |
 | [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/?envType=problem-list-v2&envId=graph)  |  Média | [Vídeo]() |
 | []()  |  Média | [Vídeo]() |
 
