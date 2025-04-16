@@ -16,9 +16,7 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
