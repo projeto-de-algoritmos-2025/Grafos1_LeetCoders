@@ -14,6 +14,8 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Resultado leetcode 1857
 ![Resultado leetcode 1857](Problemas/1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph%20(hard)/Resultado1857.png)
 
 
