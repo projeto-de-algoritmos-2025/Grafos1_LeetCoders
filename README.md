@@ -4,7 +4,7 @@
 **Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
-|Matrícula | Aluno |
+| Matrícula | Aluno |
 | -- | -- |
 | 22/2014975  |  Cairo Florenço |
 | 22/2024793  |  Gustavo Feitosa |
@@ -14,6 +14,14 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+## Problemas e Soluções
+| Problema | Dificuldade | Soluções |
+| -- | -- | -- |
+| [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/?envType=problem-list-v2&envId=graph)  |  Difícil | [Vídeo]() |
+| []()  |  Difícil | [Vídeo]() |
+| [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/?envType=problem-list-v2&envId=graph)  |  Média | [Vídeo]() |
+| []()  |  Média | [Vídeo]() |
 
 ## Instalação 
 **Linguagem**: Python<br>
