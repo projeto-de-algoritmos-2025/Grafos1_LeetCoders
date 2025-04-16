@@ -1,36 +1,27 @@
 # Grafos1_LeetCoders
+
+**Número da Lista**: X<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
+
+## Alunos
+|Matrícula | Aluno |
+| -- | -- |
+| 22/2014975  |  Cairo Florenço |
+| 22/2024793  |  Gustavo Feitosa |
+
+## Sobre 
 Repositório destinado a realização do trabalho da disciplina de Projeto de Algoritmos 2025.1
 
-# Participantes
+## Screenshots
+Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-<center>
+## Instalação 
+**Linguagem**: xxxxxx<br>
+**Framework**: (caso exista)<br>
+Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
-</head>
-<body>
+## Uso 
+Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-<table>
-    <thead>
-        <tr>
-            <th>Matrícula</th>
-            <th>Nome</th>
-            <th>GitHub</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>222014975</td>
-            <td>Cairo Florenço</td>
-            <td><a href="https://github.com/CA1RO" target="_blank">CA1RO</a></td>
-        </tr>
-        <tr>
-            <td>222024793</td>
-            <td>Gustavo Feitosa</td>
-            <td><a href="https://github.com/GustavoHaubert" target="_blank">GustavoHaubert</a></td>
-        </tr>
-    </tbody>
-</table>
-
-</body>
-</html>
-
-</center>
+## Outros 
+Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
