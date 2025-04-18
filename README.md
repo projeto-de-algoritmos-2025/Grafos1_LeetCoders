@@ -18,6 +18,9 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 ### Resultado leetcode 1857
 ![Resultado leetcode 1857](Problemas/1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph%20(hard)/Resultado1857.png)
 
+### Resultado leetcode 133
+![Resultado leetcode 133](Problemas/133.%20Clone%20Graph%20(Medium)/Resultado133.png)
+
 
 ## Problemas e Soluções
 | Problema | Dificuldade | Soluções |
@@ -25,7 +28,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 | [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/?envType=problem-list-v2&envId=graph)  |  Difícil | [Vídeo]() |
 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)  |  Difícil | [Vídeo]() |
 | [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/?envType=problem-list-v2&envId=graph)  |  Média | [Vídeo]() |
-| []()  |  Média | [Vídeo]() |
+| [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)  |  Média | [Vídeo]() |
 
 ## Instalação 
 **Linguagem**: Python<br>
