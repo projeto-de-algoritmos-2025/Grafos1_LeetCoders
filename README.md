@@ -13,13 +13,20 @@
 Repositório destinado a realização do trabalho da disciplina de Projeto de Algoritmos 2025.1
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ### Resultado leetcode 1857
 ![Resultado leetcode 1857](Problemas/1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph%20(hard)/Resultado1857.png)
 
 ### Resultado leetcode 133
 ![Resultado leetcode 133](Problemas/133.%20Clone%20Graph%20(Medium)/Resultado133.png)
+
+### Resultado leetcode 1192
+
+![Resultado leetcode 1192](Problemas/1192.%20Critical%20Connections%20in%20a%20Network%20(Hard)/Resultado1192.png)
+
+### Resultado leetcode 1462
+
+![Resultado leetcode 1462](Problemas/1462.%20Course%20Schedule%20IV%20(Medium)/Resultado1462.png)
 
 
 ## Problemas e Soluções
@@ -31,10 +38,4 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)  |  Média | [Vídeo]() |
 
 ## Instalação 
-**Linguagem**: Python<br>
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+**Linguagem**: Python3<br>
