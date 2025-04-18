@@ -32,10 +32,10 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 ## Problemas e Soluções
 | Problema | Dificuldade | Soluções |
 | -- | -- | -- |
-| [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/?envType=problem-list-v2&envId=graph)  |  Difícil | [Vídeo]() |
-| [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)  |  Difícil | [Vídeo]() |
-| [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/?envType=problem-list-v2&envId=graph)  |  Média | [Vídeo]() |
-| [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)  |  Média | [Vídeo]() |
+| [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/?envType=problem-list-v2&envId=graph)  |  Difícil | [Vídeo](https://www.youtube.com/watch?v=bAjYYeplmxU) |
+| [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)  |  Difícil | [Vídeo](https://www.youtube.com/watch?v=a2eIIjUYhSE) |
+| [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/?envType=problem-list-v2&envId=graph)  |  Média | [Vídeo](https://www.youtube.com/watch?v=JNewCcKtBlE) |
+| [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)  |  Média | [Vídeo](https://www.youtube.com/watch?v=A7kU40cRx38) |
 
 ## Instalação 
 **Linguagem**: Python3<br>
